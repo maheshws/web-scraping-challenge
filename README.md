@@ -29,7 +29,7 @@ MongoDB and Flask Application
 The MongoDB is currently hosted locally when development was done. It assumes that the grader will have a local instance running as well to run the application. All the code has been provided in the Flask folder.
 
 Final Screenshots:
-![Screen 1](/Screenshots/Mission to Mars_Page_1.png)
+![Screen 1](/Screenshots/Mission%20to%20Mars_Page_1.png)
 
-![Screen 1](/Screenshots/Mission to Mars_Page_2.png)
+![Screen 1](/Screenshots/Mission%20to%20Mars_Page_2.png)
 
